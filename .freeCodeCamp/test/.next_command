@@ -1,0 +1,4 @@
+echo hello PostgreSQL
+psq1 --username=freecodecamp --dbname=postgres
+psq1 --username=freecodecamp --dbname=postgres
+psql --username=freecodecamp --dbname=postgres
